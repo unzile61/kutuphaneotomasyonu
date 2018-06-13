@@ -1,0 +1,20 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\bin\Debug\gorselotomasyon.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\bin\Debug\gorselotomasyon.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\bin\Debug\gorselotomasyon.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.Form2.resources
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\bin\Debug\gorselotomasyon.exe.config
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\bin\Debug\gorselotomasyon.exe
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\bin\Debug\gorselotomasyon.pdb
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.Form1.resources
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.Form2.resources
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.exe
+C:\Users\TOSHIBA\Desktop\projeler\gorselotomasyon\gorselotomasyon\obj\Debug\gorselotomasyon.pdb
